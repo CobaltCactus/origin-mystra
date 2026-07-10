@@ -1,0 +1,10 @@
+new entry "UNI_Mystra_Robe"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "2d4463ce-981f-47a0-80b4-07112428ef41"
+
+new entry "UNI_Mystra_Shoes"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "a3a2ba56-9ba8-4f57-8bae-daa4b6cbf064"
+

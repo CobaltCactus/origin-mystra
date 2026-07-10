@@ -1,0 +1,4 @@
+new entry "Mystra_Stats"
+type "Character"
+using "HeroHumanFemale"
+

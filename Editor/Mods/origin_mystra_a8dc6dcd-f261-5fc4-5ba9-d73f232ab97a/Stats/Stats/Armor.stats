@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="977776d6-0824-4253-8abf-bda6049a5851" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_Mystra_Robe" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2d4463ce-981f-47a0-80b4-07112428ef41" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="04d682da-75c3-49d8-8ea7-9fab8987b41c" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_Mystra_Shoes" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a3a2ba56-9ba8-4f57-8bae-daa4b6cbf064" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,6 @@
+new entry "MYSTRA_Intelligence"
+type "PassiveData"
+data "DisplayName" "haeb27459g280cgde56gb512ga52d3ba65976;1"
+data "Description" "h44715bfbga374g48b2gc99dga21259d849fa;1"
+data "Boosts" "Ability(Intelligence,+3);"
+

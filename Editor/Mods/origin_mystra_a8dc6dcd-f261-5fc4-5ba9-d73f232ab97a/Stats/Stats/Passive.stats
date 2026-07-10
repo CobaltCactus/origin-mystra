@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="928e6fb9-fd99-45dc-bbce-4bb056fdb0cc" />
+        <field name="Name" type="NameTableFieldDefinition" value="MYSTRA_Intelligence" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haeb27459g280cgde56gb512ga52d3ba65976" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h44715bfbga374g48b2gc99dga21259d849fa" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Intelligence,+3);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

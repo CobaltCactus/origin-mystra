@@ -11,7 +11,7 @@ set -e;
 MOD_SUBDIR_NAME="origin_mystra_a8dc6dcd-f261-5fc4-5ba9-d73f232ab97a"
 
 # This is the MinGW64 path to a Steam install of the toolkit
-BG3_DATA="/c/Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/Data"
+BG3_DATA="/d/Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/Data"
 
 # These are set according to "Understanding the Mod Locations", as of Nov 2024, from
 # https://mod.io/g/baldursgate3/r/getting-started-creating-a-new-mod
