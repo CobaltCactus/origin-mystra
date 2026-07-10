@@ -6,9 +6,9 @@ set -e;
 
 # TODO Set MOD_SUBDIR_NAME here, example:
 # MOD_SUBDIR_NAME="CircleOfTheSpores_db7e15fd-b2fc-b159-4bbd-1baab34d8c3a"
-# Look in "C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Data\Projects"
+# Look in "D:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Data\Projects"
 # for names of mods you have already started
-MOD_SUBDIR_NAME=""
+MOD_SUBDIR_NAME="origin_mystra_a8dc6dcd-f261-5fc4-5ba9-d73f232ab97a"
 
 # This is the MinGW64 path to a Steam install of the toolkit
 BG3_DATA="/c/Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/Data"
